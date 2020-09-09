@@ -19,5 +19,8 @@ module.exports = {
         user     : 'root',
         password : '',
         database : 'custom_mysqldb'
+    },
+    redis : {
+
     }
 }
